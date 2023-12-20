@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Political Preparedness</string>
+    <string name="voting_location_link">Voting locations</string>
+    <string name="address_text">Address</string>
+    <string name="error_failed_load_upcoming_elections_t" formatted="false">Failed to load upcoming elections</string>
+    <string name="use_my_location_text">Use my location</string>
+    <string name="address_line_1_text">Address Line 1</string>
+    <string name="voter_unfollow">Unfollow election</string>
+    <string name="upcoming_elections_header_text">Upcoming elections</string>
+    <string name="launch_logo_description_text">Home screen logo</string>
+    <string name="error_failed_get_address_from_location_text">Can\'t get address for you location</string>
+    <string name="my_representatives_header_text">My Representatives</string>
+    <string name="find_my_representatives_text">Find my representatives</string>
+    <string name="error_missing_city_text">Enter city</string>
+    <string name="representative_failed_parse_location_text">Failed retrieve location details</string>
+    <string name="city_text">City</string>
+    <string name="app_name_text">Political Preparedness</string>
+    <string name="ballot_information_text">Ballot information</string>
+    <string name="error_missing_state_text">State field is required</string>
+    <string name="error_location_permission_denied_text">Location permission denied!</string>
+    <string name="address_line_2_text">Address Line 2</string>
+    <string name="representative_search_text">Representative Search</string>
+    <string name="find_representatives_btn_text">Find my representatives</string>
+    <string name="upcoming_elections_text_text">Upcoming elections</string>
+    <string name="error_failed_load_voter_info_text">Failed to load details using your location information</string>
+    <string name="zip">Zip</string>
+    <string name="add_to_follow">Follow election</string>
+    <string name="fb_page_text">%s facebook page</string>
+    <string name="error_missing_first_line_address_text">Enter first line address</string>
+    <string name="saved_elections_header_text">Saved elections</string>
+    <string name="error_missing_zip_text">Enter zip code</string>
+    <string name="election_name">election name</string>
+    <string name="election_info">Election Information</string>
+</resources>
